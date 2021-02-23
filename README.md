@@ -1,2 +1,0 @@
-# docusaurus-studio
-technial Documentation
